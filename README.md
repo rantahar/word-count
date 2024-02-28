@@ -1,6 +1,6 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/coderefinery/word-count/HEAD)
 
-# Word count example
+# Word count example for short repro course
 
 These programs will count words in a given text, plot a bar chart of the 10
 most common words, and test [Zipf's
